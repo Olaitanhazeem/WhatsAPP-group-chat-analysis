@@ -1,4 +1,4 @@
-# WhatsAPP-group-chat-analysis
+# WHATSAPP GROUP ANALYSIS
 ![image](https://user-images.githubusercontent.com/107173369/180949630-368fea56-616a-4651-8916-034786cf4312.png)
 
 This project contains the dataset of the Business Administration department 2020/2021,University of ilorin Nigeria.
